@@ -22,13 +22,13 @@ heroimage: https://ujamaapool.com/assets/images/hero-image.jpeg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: hello@technologyforyouth.com
-facebook_username: wearetech4youth
-twitter_username: wearetech4youth
-instagram_username: wearetech4youth
+email: ujamaa.pool@mailfence.com
+#facebook_username: wearetech4youth
+#twitter_username: wearetech4youth
+#instagram_username: wearetech4youth
 #linkedin_username: oedwards
 #github_username: skibbler
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+#youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
 #reddit_username: /
 #behance_username: /
 #dribbble_username: /
@@ -46,9 +46,14 @@ author-name: Ujamaa Pool
 author-image: https://ujamaapool.com/assets/images/logo.png
 ###https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: At Ujamaa we are committed to providing top quality ADA staking services to all of our delegates. We practice continual improvement to maximize pool efficiency in block producing capability and transaction processing. This allows us to provide competitive returns for our delegates while maintaining the most secure, distributed network of nodes, paired with our 24 / 7 / 365 reliable performance.
+author-about: At Ujamaa Pool we are committed to providing top quality ADA staking services to all of our delegates. We practice continual improvement to maximize pool efficiency in block producing capability and transaction processing. This allows us to provide competitive returns for our delegates while maintaining the most secure, distributed network of nodes, paired with our 24 / 7 / 365 reliable performance.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/skibbler
+
+#Pool info
+pool-name: Ujamaa Stake Pool
+pool-ticker: UJMA
+pool-id: 14c3e145e04b50ec3b3fadd60dbba14ed577d37f8a96b59c53cb1625
 
 # SASS
 sass:
