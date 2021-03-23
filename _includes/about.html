@@ -8,7 +8,18 @@
                     </figure>
                 </div>
                 <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
-                    <p>{{site.author-about}}</p>
+                    {% unless site.author-about-1 == %}
+                    <p style="padding-top:5px; padding-bottom:5px;">{{site.author-about-1}}</p>
+                    {% endunless %}
+                    {% unless site.author-about-2 == %}
+                    <p style="padding-top:5px; padding-bottom:5px;">{{site.author-about-2}}</p>
+                    {% endunless %}
+                    {% unless site.author-about-3 == %}
+                    <p style="padding-top:5px; padding-bottom:5px;">{{site.author-about-3}}</p>
+                    {% endunless %}
+                    {% unless site.author-about-4 == %}
+                    <p style="padding-top:5px; padding-bottom:5px;">{{site.author-about-4}}</p>
+                    {% endunless %}
                     <br>
                     <div class="container columns">
                         <div>

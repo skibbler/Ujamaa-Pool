@@ -46,7 +46,11 @@ author-name: Ujamaa Pool
 author-image: https://ujamaapool.com/assets/images/logo.png
 ###https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: At Ujamaa Pool we are committed to providing top quality ADA staking services to all of our delegates. We practice continual improvement to maximize pool efficiency in block producing capability and transaction processing. This allows us to provide competitive returns for our delegates while maintaining the most secure, distributed network of nodes, paired with our 24 / 7 / 365 reliable performance.
+author-about-1: Ujamaa stands for "Cooperative Economics".
+author-about-2: The term means that we build and maintain our own stores, shops, and other businesses and profit from them together.
+author-about-3: With the Cardano network, we have taking this same stance - where we help build and maintain the Cardano network and provide ADA rewards that allow us to profit from the network together. Join the journey with us!
+#author-about-3:
+### At Ujamaa Pool we are committed to providing top quality ADA staking services to all of our delegates. We practice continual improvement to maximize pool efficiency in block producing capability and transaction processing. This allows us to provide competitive returns for our delegates while maintaining the most secure, distributed network of nodes, paired with our 24 / 7 / 365 reliable performance.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/skibbler
 
