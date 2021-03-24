@@ -73,5 +73,5 @@ hr {
     }
 }
 
-@media (min-width: 0em) { #pool-id { width:330px; } }
-@media (min-width:42em) { #pool-id { width:700px; } }
+@media (min-width: 0em) { #pool-id { width:330px; overflow-x: scroll; } }
+@media (min-width:42em) { #pool-id { width:700px; overflow-x: hidden; } }
